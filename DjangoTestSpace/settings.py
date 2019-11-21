@@ -27,8 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-print(BASE_DIR)
-
 # Application definition
 
 INSTALLED_APPS = [
